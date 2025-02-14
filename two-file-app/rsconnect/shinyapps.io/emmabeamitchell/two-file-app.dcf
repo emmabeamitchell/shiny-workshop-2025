@@ -1,0 +1,10 @@
+name: two-file-app
+title:
+username: emmabeamitchell
+account: emmabeamitchell
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14006563
+bundleId: 9802815
+url: https://emmabeamitchell.shinyapps.io/two-file-app/
+version: 1
