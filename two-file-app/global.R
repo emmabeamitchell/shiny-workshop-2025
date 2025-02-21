@@ -4,6 +4,8 @@ library(lterdatasampler)
 library(tidyverse)
 library(shinyWidgets)
 library(palmerpenguins)
+library(markdown)
+library(shinycssloaders)
 
 #.......................wrangle trout data.......................
 clean_trout <- and_vertebrates |>
